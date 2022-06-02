@@ -1,0 +1,7 @@
+---
+layout: post
+title: "hello"
+---
+
+hello,world
+好欸，成功了
